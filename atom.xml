@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hoijanlai.github.io/"/>
-  <updated>2018-03-22T08:36:00.856Z</updated>
+  <updated>2019-01-17T05:11:53.420Z</updated>
   <id>https://hoijanlai.github.io/</id>
   
   <author>
@@ -17,11 +17,59 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>subplots</title>
+    <link href="https://hoijanlai.github.io/2019/01/17/subplots/"/>
+    <id>https://hoijanlai.github.io/2019/01/17/subplots/</id>
+    <published>2019-01-17T05:08:41.000Z</published>
+    <updated>2019-01-17T05:11:53.420Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;本文很短, 只是为了大家能够更了解matplotlib的作图机制.&lt;br&gt;适合刚刚入门的朋友们&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;1-figure和axes&quot;&gt;&lt;a href=&quot;#1-figure和axes&quot; class=&quot;headerlink&quot; title=&quot;1.
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Boxcox Transformation</title>
+    <link href="https://hoijanlai.github.io/2018/05/04/Boxcox%20Transformation/"/>
+    <id>https://hoijanlai.github.io/2018/05/04/Boxcox Transformation/</id>
+    <published>2018-05-04T08:36:00.000Z</published>
+    <updated>2018-05-05T02:07:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;In many machine learning tasks, we want our data to be normally distributed. In this post I will show you how to examine how likely a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="data science" scheme="https://hoijanlai.github.io/tags/data-science/"/>
+    
+  </entry>
+  
+  <entry>
     <title>my-first-post</title>
     <link href="https://hoijanlai.github.io/2018/03/22/my-first-post/"/>
     <id>https://hoijanlai.github.io/2018/03/22/my-first-post/</id>
     <published>2018-03-22T08:36:00.000Z</published>
-    <updated>2018-03-22T08:36:00.856Z</updated>
+    <updated>2019-01-17T05:08:16.514Z</updated>
     
     <summary type="html">
     
